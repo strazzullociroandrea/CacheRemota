@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "test": "ava",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "shortid": "^2.2.16"
+  },
+  "name": "cacheremota",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Ciro Andrea Strazzullo",
+  "license": "ISC",
+  "description": ""
+}
